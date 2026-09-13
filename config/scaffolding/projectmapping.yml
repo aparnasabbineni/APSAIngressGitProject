@@ -1,0 +1,7 @@
+version: "1.0"
+projectName: APSAIngressGitProject
+runtimes:
+- runtimeAlias: Cloud Designtime
+  assets:
+  - name: APSAINgressAppGit1
+    type: DAF
